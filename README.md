@@ -1,6 +1,6 @@
 # Fernando · Ortoprótesis y software
 
-Soy asesor técnico-comercial en ortoprótesis. Desarrollo proyectos personales de software y automatización.
+Soy asesor técnico-comercial en Ortoprótesis. Desarrollo proyectos personales de software y automatización.
 
 ## En qué trabajo
 
